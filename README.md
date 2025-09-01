@@ -11,12 +11,12 @@ A collection of my writing work across blogs, technical documentation, SEO, and 
 ---
 
 ##Mental Health  
-- Articles exploring mental health topics  
+- [Articles exploring mental health topics](https://docs.google.com/document/d/1oVwiGxA5M8R8peCA6DlmijefDPnxDwOMl93VskimZ2I/edit?tab=t.0)
 
 ---
 
 ##Technical Writing / API Docs  
-- API Documentation (Weather, Tech APIs)  
+- [API Documentation (Weather, Tech APIs)](https://docs.google.com/document/d/1lo-dHUYMJ8I4Gugrin63adaCFqN3US7hHSeBMdOc7A4/edit?usp=drive_link)
 
 ---
 
